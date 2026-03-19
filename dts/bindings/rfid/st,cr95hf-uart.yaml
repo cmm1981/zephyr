@@ -2,6 +2,6 @@
 # SPDX-License-Identifier: Apache-2.0
 description: ST CR95HF RFID driver
 
-compatible: "st,cr95hf"
+include: uart-device.yaml
 
-on-bus: uart
+compatible: "st,cr95hf"
