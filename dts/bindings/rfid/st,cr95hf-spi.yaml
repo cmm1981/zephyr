@@ -6,8 +6,6 @@ compatible: "st,cr95hf"
 
 include: spi-device.yaml
 
-on-bus: spi
-
 properties:
   irq-in-gpios:
     type: phandle-array
