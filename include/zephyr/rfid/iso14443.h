@@ -26,6 +26,8 @@ extern "C" {
  * @brief RFID ISO 14443 Type A Interface
  * @defgroup rfid_iso14443a_interface RFID ISO 14443 Type A Interface
  * @ingroup io_interfaces
+ * @since 4.4.0
+ * @version 0.1.0
  * @{
  */
 
