@@ -28,6 +28,8 @@ extern "C" {
 /**
  * @brief RFID Interface
  * @defgroup rfid_interface RFID Interface
+ * @since 4.4.0
+ * @version 0.1.0
  * @ingroup io_interfaces
  * @{
  */
