@@ -182,7 +182,7 @@ static int cr95hf_emul_init(const struct emul *cr95hf_emul, const struct device 
 		LOG_ERR("Failed to configure IRQ GPIO (err %d)", ret);
 		return ret;
 	}
-	LOG_INF("CR95HF Emulator initialized");
+	LOG_DBG("CR95HF Emulator initialized");
 	return 0;
 }
 
