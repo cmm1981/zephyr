@@ -7,7 +7,7 @@ Overview
 ********
 
 The RFID Subsystem provides APIs for RFID protocol standards.
-Currently, only ISO 14443A is implemented. The protocol utilizes the RFID driver API.
+As of release v4.4.0, only ISO 14443A is implemented. The protocol utilizes the RFID driver API.
 
 Example (polling)
 *****************
