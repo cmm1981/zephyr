@@ -14,7 +14,7 @@ Example (polling)
 
 To read the UID of an RFID tag, the following steps are necessary:
 
-1. Configure the device in the Device Tree
+1. Configure the device in the Devicetree
 ==========================================
 
 The following example shows the DTS entry of an STM32L100 board with a CR95HF connected via SPI.
